@@ -97,7 +97,7 @@ action.object.edit:
 action.object.delete:
   label:    Borrar
   confirm:  ¿Está seguro que desea eliminar este elemento?
-  success:  Element se ha eliminado correctamente.
+  success:  El registro se ha eliminado correctamente.
   error:    El elemento no se puede eliminar.
 action.object.show:
   label:    Mostrar
@@ -105,8 +105,8 @@ action.object.show:
 # Batch actions
 action.batch.delete:
   label:    Borrar
-  confirm:  ¿Te confirmar la eliminación de todos los elementos seleccionados?
-  success:  El registro ha sido borrado correctamente.
+  confirm:  ¿Confirmar la eliminación de todos los elementos seleccionados?
+  success:  Los registros han sido borrados correctamente.
   error:    Este registro no puede ser borrado.
 
 # Custom actions
